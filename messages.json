@@ -24,7 +24,7 @@
 },
 {
     "toUser": "neon-tuna",
-    "msgBody": "-----BEGIN PGP MESSAGE-----
+    "msgBody": "-----BEGIN PGP MESSAGE-----\n\
 
 wcFMA5enSGqYgtJcAQ//ULcoBsiHRDP/XQ/rSiPQRkOv/aIPdlWRdxijZ/VI
 4LFkXfOxLGtKsoQKaCxNip4dULenH93VE2UgGR4SoWGejFp2WzKPi4Brlu+9
@@ -49,7 +49,7 @@ MHUjIzbcgt/H2NAcid+R2yoCdpCmnBwbodL7+NH70c6KYKo6cM26ai8DZW2K
 UmRq3hGv2J0WtA1v5uM7Xda7vj/QCaZqije6tMRQK98wEMq2DG4Cwcx/otYU
 gDzj
 =LsmS
------END PGP MESSAGE-----
+\n=/Aph\n-----END PGP MESSAGE-----
 ",
     "fromUser": "admin",
     "toStatus": "inbox",
